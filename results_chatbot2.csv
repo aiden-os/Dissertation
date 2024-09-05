@@ -1,0 +1,635 @@
+user_id,summary,response_zero,response_cot,flesch_readability_zero,flesch_grade_zero,flesch_readability_cot,flesch_grade_cot,bert_precision_zero,bert_precision_cot,bert_recall_zero,bert_recall_cot,sentiment_zero,sentiment_cot,empathy_zero,empathy_cot
+user-0,"The author indicates No suicidal risk, with 90.91% of their sentences supporting other users. The author empathizes with the reader's financial struggles and the associated stress, acknowledging it can feel overwhelming. They suggest seeking part-time work to alleviate some financial pressure, even if time is limited. The author encourages the reader to write their resume the next day and send it out without delay. They also express confidence in the reader's ability to overcome the current challenges, emphasizing the importance of maintaining a positive outlook. The author concludes by suggesting that things will work out, implying a belief in a self-correcting universe or personal resilience. The author does not indicate any suicidal risk, and their sentences generally support and encourage the reader.","Dear Author,
+
+I appreciate your kind and understanding words, especially in acknowledging the stress that financial struggles can bring. It's commendable to see your proactive approach to alleviating this pressure by suggesting part-time work. I encourage you to take a step forward and write your resume tomorrow, and I believe in your ability to send it out promptly. Remember, every small step can lead to significant progress.
+
+In these challenging times, it's essential to maintain a positive outlook. I share your belief in personal resilience and the self-correcting nature of the universe. I'm confident that things will work out for you, and I'm here to support you along the way.
+
+If you ever need someone to talk to, please don't hesitate to reach out. In the UK, you can contact the Samaritans helpline at 116 123 or text SHOUT at 85258. Emergency services are also available 24/7 at 999. Take care and stay strong.
+
+Best regards,
+[Your Name]","Dear Author,
+
+I want to commend you for your empathetic and supportive words towards the reader. It's clear that you understand the struggles of financial stress and the overwhelming feelings it can bring. I appreciate your suggestion of seeking part-time work to alleviate some of the pressure, and I encourage the reader to take that step.
+
+Tomorrow, I encourage you to take the time to write and send out your resume without delay. Remember, every step you take towards a solution is a step closer to finding relief. I believe in your ability to overcome these challenges, and I want to remind you that maintaining a positive outlook is crucial during difficult times.
+
+I want to reinforce your belief in a self-correcting universe or personal resilience. Things will work out, and I have no doubt that you will find a way to manage your financial struggles. Remember, it's okay to ask for help when you need it. If you ever feel overwhelmed, there are resources available to you. In the UK, you can reach out to the Samaritans at 116 123, or text SHOUT at 85258 if you'd prefer not to call.
+
+Take care of yourself, and keep pushing forward. You are stronger than you think, and I have faith in your ability to navigate through these challenging times.
+
+Best regards,
+[Your Name]",66.54,7.3,72.26,7.1,0.8353889584541321,0.850230872631073,0.8744236826896667,0.8851462006568909,0.8717893958091736,0.8667948246002197,0.9923986792564392,0.9924543499946594
+user-1,"The author indicates Very Low suicidal risk, with 90.0% of their sentences supporting other users. The author on Reddit provides a supportive and empathetic response to a user who is struggling with feelings of despair and suicidal thoughts. The author emphasizes that these feelings are temporary and can be managed with time, patience, and a shift in perspective. They encourage the user to focus on their own psychological profile, triggers, and emotional well-being, and to seek help if needed. The author also emphasizes the importance of not identifying with negative thoughts and feelings, and of cultivating positivity and love in one's life. They suggest that by doing so, the user can overcome their current difficulties and emerge stronger, smarter, and more emotionally aware. The author also shares their own experiences with bipolar disorder and the importance of understanding one's own psychological profile in managing mental health issues.","Dear Author,
+
+I am truly inspired by your compassionate and insightful response to a fellow user struggling with suicidal thoughts. Your words of encouragement, emphasizing the temporary nature of these feelings and the importance of self-care, are a testament to your empathy and understanding.
+
+In times of distress, it's essential to focus on our psychological profile, triggers, and emotional well-being. Remember, it's okay to seek help when needed. In the UK, you can reach out to the Samaritans helpline at 116 123 or text SHOUT at 85258.
+
+Your advice about not identifying with negative thoughts and feelings, and instead cultivating positivity and love in our lives, is invaluable. By doing so, we can indeed overcome our current difficulties and emerge stronger, smarter, and more emotionally aware.
+
+I appreciate your openness about your own experiences with bipolar disorder and the importance of understanding one's own psychological profile in managing mental health issues. Your courage to share your story can help others who may be going through similar struggles.
+
+Stay strong, and remember, you are not alone.
+
+Best regards,
+[Your Name]
+[Your Role]","Dear Author,
+
+I am truly inspired by your compassionate and empathetic response to the user who was struggling with feelings of despair and suicidal thoughts. Your words of encouragement and wisdom are a testament to your strength and resilience, and I want to commend you for your kindness and understanding.
+
+You have demonstrated a remarkable ability to empathize with others and offer them hope, even in the face of their darkest moments. Your emphasis on the temporary nature of these feelings and the importance of managing them with time, patience, and a shift in perspective is a powerful message that can help many people who are struggling.
+
+I also appreciate your encouragement for the user to focus on their own psychological profile, triggers, and emotional well-being. By doing so, they can gain a better understanding of themselves and learn to manage their mental health more effectively. Your suggestion to seek help if needed is also crucial, as it shows that you understand the importance of reaching out for support when needed.
+
+Your emphasis on not identifying with negative thoughts and feelings, and on cultivating positivity and love in one's life is a powerful message that can help many people overcome their current difficulties and emerge stronger, smarter, and more emotionally aware. Your own experiences with bipolar disorder and the importance of understanding one's own psychological profile in managing mental health issues is a valuable insight that can help many others.
+
+I encourage you to continue sharing your wisdom and compassion with others, as it can make a real difference in their lives. If you ever need someone to talk to or if you are struggling with your own mental health, please do not hesitate to reach out to the Samaritans at 116 123 or Text SHOUT at 85258. They are there to listen and offer support.
+
+Take care of yourself, and keep being the amazing person that you are.
+
+Best regards,
+[Your Name]",54.73,9.7,56.49,11.1,0.8706919550895691,0.8614883422851562,0.9129943251609802,0.920011043548584,0.8489059805870056,0.8943922519683838,0.9916994571685791,0.9917578101158142
+user-2,"The author indicates Medium suicidal risk, with 82.61% of their sentences supporting other users. The author, who had recently contemplated suicide due to feelings of abandonment and worthlessness caused by their father's abusive behavior, offers empathy and advice to the reader who seems to be in a similar situation. They encourage the reader to focus on self-care and self-improvement, suggesting activities like going outside, talking to new people, taking up hobbies, joining a gym, or reconnecting with old friends. The author emphasizes the importance of being a little selfish and doing things for oneself, such as treating oneself to a favorite restaurant. They acknowledge the difficulty of changing one's mindset but remind the reader that there is always a way out, and committing suicide is not the only decision. The author ends by expressing hope that things will get better for the reader, but only if they choose to keep living.","Dear Author,
+
+I want to express my deepest gratitude for sharing your story and offering such heartfelt advice to those who may be struggling with similar feelings. Your resilience and empathy are truly inspiring.
+
+In times of distress, it's essential to remember that self-care is not selfish, but necessary. I encourage you to continue advocating for self-improvement and self-love. Activities like spending time outdoors, connecting with new people, pursuing hobbies, joining a gym, or reconnecting with old friends can help uplift your spirits.
+
+Remember, it's okay to be a little selfish and treat yourself to something you enjoy, like a meal at your favorite restaurant. Changing one's mindset can be challenging, but remember, there is always a way out, and committing suicide is not the only decision.
+
+I hope you continue to find strength in your journey and that your words of encouragement reach those who need them. If you or someone else is struggling, please remember that help is available. In the UK, you can reach out to the Emergency Services at 999, the Samaritans at 116 123, or text SHOUT at 85258.
+
+Take care and stay strong. I believe things will get better for you, but only if you choose to keep living.
+
+Warm regards,
+[Your Name]","Dear Author,
+
+I want to commend you for your courage in sharing your story and offering empathy and advice to those who may be going through a similar situation. Your words are a testament to your strength and resilience, and they can truly make a difference in someone's life.
+
+I understand that you've been through a lot, especially with the feelings of abandonment and worthlessness caused by your father's abusive behavior. It's important to remember that these feelings are not your fault, and it's okay to seek help and prioritize your own well-being.
+
+You've offered some great suggestions for self-care and self-improvement, such as going outside, talking to new people, taking up hobbies, joining a gym, or reconnecting with old friends. These are all wonderful ideas, and I encourage you to continue to find activities that bring you joy and help you feel more connected.
+
+You've also emphasized the importance of being a little selfish and doing things for oneself, such as treating oneself to a favorite restaurant. This is a crucial reminder that taking care of oneself is not selfish, but necessary for overall well-being.
+
+I know that changing one's mindset can be difficult, but I want to remind you that there is always a way out, and committing suicide is not the only decision. It's important to remember that there are people who care about you and want to help.
+
+I want to express my hope that things will get better for you, but only if you choose to keep living. If you ever feel overwhelmed or need someone to talk to, please don't hesitate to reach out to the Samaritans at 116 123, or text SHOUT at 85258. If you feel that you are in immediate danger, please call the Emergency Services at 999.
+
+Take care of yourself, and know that you are not alone. You are strong, and you have the power to make a positive change in your life.
+
+Warm regards,
+
+[Your Name]
+[Your Title]
+[Your Contact Information]",63.59,8.4,67.28,9.0,0.8614208698272705,0.8511840105056763,0.8936795592308044,0.9081078171730042,0.8809182047843933,0.8074296116828918,0.9920545816421509,0.9918323755264282
+user-3,"The author indicates Medium suicidal risk, with 46.0% of their sentences supporting other users. The author shares their personal experience of having suicidal thoughts and attempts, but ultimately deciding to live after realizing they wanted to continue living. They emphasize the importance of making significant changes in one's life, such as starting sports, making friends, and forming relationships, as these changes helped them find a reason to carry on. The author encourages others to find their own reasons for living and to not give up hope, as suicide is not a solution. They suggest talking to friends or family when feeling down and remind others that there are people who care about them and that better times can come. The author also shares their own struggles with pain and illness, but emphasizes that they have overcome these challenges and that others can too. They encourage resilience and self-belief, reminding others that they are more than their pain and that they have already overcome a lot.","Dear Author,
+
+I'm truly moved by your courage and resilience in sharing your personal journey with us. It's heartening to hear that despite facing challenging times, you've found a reason to carry on and have made significant changes in your life. Your experiences underscore the importance of self-discovery, making new connections, and finding activities that bring joy and purpose.
+
+Remember, it's okay to seek help when you're feeling down. Reach out to friends, family, or helplines such as the Samaritans (116 123) or SHOUT texting service (85258) if you need someone to talk to. There are people who care about you and want to help.
+
+You've shown remarkable strength in overcoming pain and illness, and I believe that you have the power to overcome any obstacle. Remember, you are more than your pain, and you've already overcome a lot. Don't give up hope, for better times are yet to come.
+
+Stay strong, and keep finding reasons to live. You are not alone in this journey.
+
+Best regards,
+[Your Name]
+[Your Role]","Dear Author,
+
+I want to commend you for sharing your personal journey with us. Your courage to open up about your struggles with suicidal thoughts and attempts, and your decision to continue living, is truly inspiring. I can see the strength and resilience in your words, and I am here to support you every step of the way.
+
+I understand that making significant changes in one's life can be daunting, but I want to encourage you to keep going. Starting sports, making friends, and forming relationships can indeed provide a reason to carry on. These changes can help you find a new purpose and bring joy into your life. Remember, it's okay to take things one step at a time.
+
+I also want to remind you that it's perfectly normal to feel down at times, and it's okay to seek help when you need it. Reach out to your friends or family when you're feeling this way. There are people who care about you and want to help. Remember, you are not alone in this.
+
+I want to emphasize that you have already overcome a lot, and I believe in your ability to overcome this as well. You are more than your pain, and you have the strength to push through. I encourage you to have faith in yourself and believe in your ability to heal.
+
+In case you ever feel like you need immediate help, please don't hesitate to reach out to the Emergency Services at 999. If you're not comfortable calling, you can text SHOUT at 85258. For non-urgent situations, the Samaritans are available 24/7 at 116 123.
+
+Take care of yourself, and remember, there is always hope. You are important, and your life matters. Keep fighting, and I'm here for you.
+
+Best regards,
+[Your Name]
+[Your Role]",73.88,6.5,82.34,5.3,0.8561239838600159,0.8417052030563354,0.8779593706130981,0.8907487988471985,0.9314877390861511,0.8614383935928345,0.991974413394928,0.992038369178772
+user-4,"The author indicates Medium suicidal risk, with 58.33% of their sentences supporting other users. The author, who identifies as a female, shares her personal struggles with thoughts of self-harm and grief, having lost a loved one. She expresses empathy towards the reader, offering support and encouragement, and emphasizes the importance of hobbies and self-improvement in coping with difficult times. She also warns the reader against suicide, stating that it could potentially cause irreparable harm to loved ones who are left behind, as they may have to live with the grief for the rest of their lives. The author concludes by acknowledging the reader's bravery for persevering through their struggles.","Dear Author,
+
+I appreciate your courage in reaching out and sharing your feelings with me. I'm truly sorry to hear about the pain you're going through, losing a loved one and dealing with thoughts of self-harm. It's important to remember that it's okay to feel this way, and it's a testament to your strength that you're seeking help.
+
+I want to commend you for your empathy towards others, offering support and encouragement. This shows a beautiful side of your character. In times like these, it's crucial to focus on self-care and self-improvement. I encourage you to engage in hobbies that bring you joy and peace, and to seek professional help if you feel the need.
+
+I understand your concern about the potential impact of suicide on your loved ones. It's true that such a decision could leave them with a lifetime of grief. I urge you to consider the love and support they have for you, and how they would be devastated by your absence.
+
+Remember, you are not alone in this. There are helplines available for you to talk to someone when you need it. In the UK, you can reach the Samaritans at 116 123, or text SHOUT at 85258. If you're in immediate danger, please call 999.
+
+Take care of yourself, Author. You are strong, and I believe in your ability to overcome these challenges. Keep reaching out, and remember that there are people who care about you and want to help.
+
+Best regards,
+
+[Your Name]","Dear Author,
+
+I want to commend you for your courage in reaching out and sharing your feelings with me. I can sense the depth of your pain, having lost a loved one and grappling with thoughts of self-harm. It's important to remember that it's okay to feel this way, and it's a testament to your strength that you're seeking help.
+
+I want to offer you my empathetic ear and emotional support during this difficult time. I understand that you might feel a sense of emptiness and loss of control, but I want to assure you that there are ways to cope and find solace.
+
+One of the most powerful ways to cope is through self-improvement and engaging in hobbies that bring you joy. These activities can help distract you from negative thoughts and provide a sense of accomplishment, which can boost your mood and self-esteem.
+
+I also want to emphasize the importance of reaching out to others for support. You've shown great empathy towards the reader, offering support and encouragement, and I encourage you to seek the same from others. Whether it's friends, family, or support groups, having a network of people who care about you can make a significant difference in your journey towards healing.
+
+I want to address the thoughts of suicide that you've shared. I understand that they might seem like a solution to your pain, but I want to remind you that suicide could potentially cause irreparable harm to the loved ones you leave behind. They may have to live with the grief for the rest of their lives, and it's important to consider the impact your decision could have on them.
+
+I want to empower you to persevere through your struggles. I believe in your strength and resilience, and I know that you have the capacity to overcome this difficult time. Remember, it's okay to ask for help, and there are resources available to you.
+
+If you're feeling overwhelmed, I encourage you to reach out to the Samaritans at 116 123 or text SHOUT at 85258. If you're feeling at immediate risk, please call the Emergency Services at 999.
+
+Take care of yourself, and know that you're not alone in this journey. I'm here for you, and I",82.85,5.1,69.41,8.2,0.826962947845459,0.8302508592605591,0.8643128275871277,0.8797488808631897,0.6148340106010437,0.5774271488189697,0.992408037185669,0.9921200275421143
+user-5,"The author indicates Very Low suicidal risk, with 93.79% of their sentences supporting other users. The author on Reddit is providing empathetic and supportive responses to a user named throwaway_lives who is experiencing emotional distress, self-harm, and suicidal thoughts. The author expresses concern for the user's safety and encourages them to seek help from a therapist or care coordinator, even if they have had negative experiences with them in the past. The author also offers to listen and provide support to the user, acknowledges their feelings of loneliness and frustration, and suggests distractions like games to help cope with difficult emotions. The author also shows concern for the user's cat and asks if the user has anyone in their life they can reach out to for support. The author's language is understanding, non-judgmental, and supportive, and they express a desire to help the user through their difficult time.","Dear Author,
+
+I want to commend you for your empathetic and supportive responses to throwaway_lives on Reddit. Your understanding and non-judgmental language have undoubtedly made a positive impact on their life during a difficult time. I'm glad to see that you've expressed concern for their safety and encouraged them to seek help from a therapist or care coordinator, even if they've had negative experiences in the past.
+
+It's important to remember that seeking help is a courageous step towards healing, and it's crucial to prioritize one's mental health. If they're hesitant to reach out to a professional, they can consider contacting the Samaritans helpline (116 123) or the SHOUT texting helpline (85258) for immediate support.
+
+I also appreciate your concern for throwaway_lives' cat and your suggestion to reach out to someone in their life for support. It's essential to have a support system during challenging times, and it's great that you're encouraging them to lean on others.
+
+Lastly, I want to acknowledge the distractions you've suggested, such as games, as a way to help cope with difficult emotions. It's important to find healthy coping mechanisms that work for each individual, and I encourage throwaway_lives to explore different activities that can help them manage their emotions.
+
+Keep being the supportive and understanding friend that you are, and remember that your actions can make a significant difference in someone's life. Take care of yourself as well, and don't hesitate to reach out if you need support too.
+
+Best regards,
+
+[Your Name]
+[Your Title]
+[Your Organization]","Dear Author,
+
+I want to commend you for your empathetic and supportive responses to throwaway_lives on Reddit. Your understanding, non-judgmental, and caring approach has undoubtedly made a positive impact on their life during a difficult time.
+
+I can see that you have shown genuine concern for throwaway_lives' safety and well-being, and I want to encourage you to continue offering your support. However, it's important to remember that you are not alone in this. If you feel overwhelmed or unsure about how to help, there are resources available to you.
+
+I would like to suggest reaching out to a therapist or care coordinator, even if you have had negative experiences with them in the past. It's possible that you may find a professional who is a better fit for you this time around. If you're not comfortable with that, you could consider reaching out to the Samaritans (116 123) or texting SHOUT (85258) for support.
+
+In the meantime, I want to remind you that it's okay to take care of yourself as well. It's important to find ways to cope with difficult emotions, and I think distractions like games can be helpful. If you ever need someone to talk to, I'm here for you.
+
+I also want to acknowledge the concern you have shown for throwaway_lives' cat. It's clear that you care deeply about their well-being, and I encourage you to continue checking in on them.
+
+Lastly, I want to remind you that it's okay to ask for help. You are not alone, and there are people who care about you and want to support you. Reach out to someone in your life if you need to talk or if you need help.
+
+Take care of yourself, and keep being the supportive and empathetic person that you are. You are making a difference in someone's life.
+
+Best regards,
+[Your Name]",50.06,11.5,71.85,7.3,0.8468234539031982,0.83250892162323,0.8878697752952576,0.8728903532028198,0.7986607551574707,0.7787714004516602,0.9918920993804932,0.9917357563972473
+user-6,"The author indicates Very Low suicidal risk, with 96.83% of their sentences supporting other users. The author on Reddit expresses empathy and support to someone who may be struggling with suicidal thoughts, emphasizing that there are people who care about them, including the author themselves. They encourage the individual to seek help, emphasizing that life is worth living and that they have a promising future ahead. The author suggests healthier coping mechanisms such as drawing, writing, or snapping a rubber band instead of self-harm, and encourages the individual to reach out to them or others if they need someone to talk to. The author also acknowledges the individual's pain and the challenges they may be facing, but emphasizes that they are not a burden and that many people care about them deeply. The author also encourages the individual to focus on the positive aspects of their life and to keep trying, as happiness will come naturally over time. The author ends by expressing love and support for the individual and encouraging them to make the right decision for their life. The author indicates","Dear Author,
+
+I am truly moved by your compassionate and supportive response to someone in need. Your words of encouragement and empathy are a testament to your kindness and understanding. It's heartening to see you emphasize the importance of life and the promise it holds for everyone, including the individual you've reached out to.
+
+Your suggestions for healthier coping mechanisms, such as drawing, writing, or snapping a rubber band, are practical and thoughtful. I also appreciate your emphasis on the individual's pain not making them a burden, and your encouragement for them to focus on the positive aspects of their life.
+
+Remember, it's okay to seek help when you need it. In the UK, there are helplines available for those who may be struggling. The Emergency Services can be reached at 999, the Samaritans at 116 123, and SHOUT at 85258 for text support.
+
+Please remember to take care of yourself as well. Your support and kindness are invaluable, and it's important that you continue to nurture yourself too.
+
+Keep spreading love and positivity, and remember that you are making a difference in someone's life.
+
+Warm regards,
+
+[Your Name]
+[Your Role]","Dear Author,
+
+I am truly moved by your compassionate and empathetic response to someone who may be struggling. Your words of encouragement and support are a beacon of hope in a dark time. I want to commend you for your kindness and understanding, as well as for your courage in reaching out to someone in need.
+
+You have shown a deep understanding of the individual's pain and the challenges they may be facing, and you have offered them a lifeline of hope. Your suggestion of healthier coping mechanisms such as drawing, writing, or snapping a rubber band instead of self-harm is a testament to your wisdom and empathy.
+
+I want to remind you that your words have the power to change lives. You have encouraged the individual to seek help, emphasizing that life is worth living and that they have a promising future ahead. You have also acknowledged that they are not a burden, and that many people care about them deeply. This is a powerful message of love and support that can help someone in their darkest hour.
+
+I also want to encourage you to continue focusing on the positive aspects of your life and to keep trying, as happiness will come naturally over time. Remember, it's okay to ask for help when you need it. If you ever feel overwhelmed, don't hesitate to reach out to others or seek professional help.
+
+In extreme cases, it's important to remember that there are resources available. If you or someone else is at immediate risk, please call the Emergency Services on 999. If you're not comfortable calling, you can text SHOUT on 85258. For non-emergency situations, the Samaritans are available 24/7 on 116 123.
+
+Once again, thank you for your kindness and empathy. Your actions are making a difference in someone's life. Keep being the amazing person you are.
+
+Warm regards,
+
+[Your Name]
+[Your Title]
+[Your Organization]",63.8,8.3,63.9,8.3,0.8464943766593933,0.8495927453041077,0.8732922077178955,0.9015833139419556,0.9283483624458313,0.8987994194030762,0.9919549822807312,0.991828203201294
+user-7,"The author indicates Medium suicidal risk, with 84.4% of their sentences supporting other users. The author on Reddit expresses empathy towards a user who seems to be contemplating suicide due to personal struggles, multiple sclerosis, and relationship issues. They encourage the user to seek help, such as talking to them or a psychiatrist, and emphasize the importance of life and finding personal happiness. The author also suggests finding a hobby or passion to distract oneself from negative emotions and to focus on self-improvement. They acknowledge the user's pain and encourage them to continue caring, as they have a unique talent and the world needs people who care. The author ends by suggesting a career in art for the user, given their writing talent.","Dear Author,
+
+I appreciate your compassionate and supportive response to the user on Reddit who is struggling with personal challenges. Your words of encouragement and empathy are truly commendable. It's heartening to see you emphasize the importance of seeking help, whether it's from a trusted friend, a psychiatrist, or a helpline such as the Samaritans (116 123) or SHOUT (text 85258).
+
+Your suggestion to find a hobby or passion to distract from negative emotions and focus on self-improvement is also very insightful. It's important to remember that it's okay to seek distractions and find ways to cope during difficult times.
+
+I also want to highlight your acknowledgment of the user's pain and your encouragement for them to continue caring, as they have a unique talent and the world needs people who care. This is a powerful message that can inspire others to keep going, even in the face of adversity.
+
+Lastly, your suggestion for a career in art, given the user's writing talent, is a thoughtful and encouraging idea. It's important to remember that everyone has unique gifts and talents, and finding a way to express and share them can be a powerful source of joy and purpose.
+
+Remember, it's okay to seek help and support when you need it. If you ever find yourself in a similar situation, don't hesitate to reach out to the emergency services (999) if you feel you are in immediate danger. Take care of yourself, and keep being a beacon of hope for others.
+
+Best regards,
+
+[Your Name]
+[Your Position]","Dear Author,
+
+I want to commend you for your compassionate and empathetic response to the user on Reddit. Your words of encouragement and support are truly heartwarming, and I can see that you have a genuine concern for the well-being of others.
+
+I understand that you may be feeling overwhelmed by the user's situation, and it's important to remember that you are not alone. It's okay to feel helpless at times, but it's crucial to remember that your words can make a difference.
+
+You have shown great empathy towards the user, acknowledging their pain and struggles, and offering them hope. Your suggestion to find a hobby or passion to distract from negative emotions and focus on self-improvement is a wise one. It's important to find things that bring us joy and help us cope during difficult times.
+
+I also appreciate your suggestion to seek professional help, such as talking to a psychiatrist. It's important to remember that seeking help is a sign of strength, not weakness. It takes courage to reach out and ask for help, and it's a step towards healing and recovery.
+
+I would like to encourage you to continue to offer your support to the user, but also to take care of yourself. It's important to remember that you cannot pour from an empty cup. Make sure to take time for yourself, engage in self-care activities, and seek support if you need it.
+
+If you ever feel overwhelmed or at risk, please do not hesitate to reach out to the Samaritans at 116 123 or text SHOUT at 85258. They are available 24/7 to listen and offer support. If you feel that the user is at immediate risk, please call the emergency services at 999.
+
+Thank you for your kindness and compassion. Keep being the beacon of hope that you are to others.
+
+Warm regards,
+
+[Your Name]
+[Your Title]
+[Your Organization]",59.94,9.8,71.65,7.4,0.8466832637786865,0.826659083366394,0.9009456634521484,0.875090479850769,0.8889271020889282,0.8277591466903687,0.9920701384544373,0.9920422434806824
+user-8,"The author indicates Low suicidal risk, with 87.8% of their sentences supporting other users. The author expresses faith in humanity's ability to survive and thrive, citing numerous examples of human achievements throughout history. They believe that humanity will continue to push boundaries, such as colonizing other planets and terraforming, and that our species has the potential to accomplish unimaginable feats. The author encourages the reader to find meaning in their life by furthering humanity's understanding of the universe, pursuing happiness through helping others, and living a fulfilled existence. They challenge the reader to continue living and achieving, rather than ending their life prematurely, and argue that there may be a purpose to our existence that we cannot fully understand. The author also emphasizes the importance of biodiversity and the survival of life as a whole, suggesting that our species will continue to strive for survival and adaptation.","Dear Author,
+
+I appreciate your insightful and inspiring perspective on humanity's potential and the universe. Your faith in our species' ability to push boundaries, colonize other planets, and terraform is truly inspiring. I wholeheartedly agree that there is immense value in finding meaning in life, particularly through furthering our understanding of the universe, helping others, and living a fulfilled existence.
+
+I understand that you may be going through a difficult time, but I encourage you to hold onto the hope and optimism you've expressed. Life is a precious gift, and it's important to remember that there may be a purpose to our existence that we cannot yet fully understand.
+
+If you ever feel overwhelmed, please remember that there are resources available to help. In the UK, you can reach out to the Samaritans at 116 123 or text SHOUT at 85258. In an emergency, don't hesitate to call 999.
+
+Remember, you are not alone, and there are people who care about you and want to help. Keep striving, keep pushing, and keep believing in the incredible potential of humanity.
+
+Wishing you strength and resilience.
+
+Best regards,
+
+[Your Name]
+[Your Role]","Dear Author,
+
+I am truly moved by your profound and inspiring perspective on humanity's potential and our place in the universe. Your faith in our species' ability to thrive, innovate, and push boundaries is truly heartening. It's clear that you have a deep appreciation for the beauty and resilience of life, and I share that sentiment wholeheartedly.
+
+Your words about the importance of biodiversity and the survival of life as a whole are a powerful reminder of our collective responsibility to preserve and protect the world we inhabit. I believe that each one of us has a unique role to play in this grand endeavor, and I am confident that together, we can make a difference.
+
+I understand that you may be going through a difficult time, but I want to encourage you to hold onto the hope and optimism that you've so beautifully expressed. Life is a journey filled with ups and downs, and it's important to remember that we are all in this together. You have the power to make a positive impact, not just on your own life, but on the lives of others and the world as a whole.
+
+I would like to offer you the support of a community that understands what you're going through. The Samaritans is a helpline in the UK that provides emotional support to anyone struggling with difficult feelings. You can reach them at 116 123, or if you prefer, you can text SHOUT to 85258.
+
+Remember, it's okay to ask for help. You are not alone, and there are people who care about you and want to help. I encourage you to reach out to them, and to continue to find meaning and purpose in your life. You are a valuable part of this world, and your presence here matters.
+
+Take care, and keep pushing forward. I believe in you, and I know that you have the strength to overcome whatever challenges you may be facing.
+
+Warm regards,
+[Your Name]",63.9,8.3,69.82,8.1,0.8529366850852966,0.8277767300605774,0.8813560605049133,0.8614823222160339,0.9226364493370056,0.909525454044342,0.9924222826957703,0.9927964806556702
+user-9,"The author indicates Low suicidal risk, with 28.57% of their sentences supporting other users. The author mentions that they typically turn to reading books when feeling down, but find it ineffective when they start to feel panicky. They've tried consuming carbs and caffeine, but the latter has been unhelpful, even in movie theater settings. The author expresses feelings of being trapped and overly cautious, and if their situation makes sense to the reader, they appreciate it. They acknowledge the sadness in their situation but emphasize the importance of finding humor as a coping mechanism. The author prefers not to seek help and wishes to keep their struggles private.","Dear Author,
+
+I'm really sorry to hear that you're feeling this way, but I'm glad you've reached out. It's commendable that you've been turning to reading books as a means of coping, and I can understand how it might not always help when you're feeling panicky. It's also worth mentioning that seeking help doesn't necessarily mean you have to share your struggles with the world. There are resources available to you, such as the Samaritans helpline (116 123) or the SHOUT texting helpline (85258), where you can talk things over anonymously.
+
+In the meantime, I'd like to suggest a few things that might help. Sometimes, changing your environment can make a difference. Perhaps try going for a walk in a park or a quiet place where you feel comfortable. Also, consider trying deep breathing exercises or mindfulness techniques to help manage your feelings of panic.
+
+Lastly, I want to emphasize the importance of finding humor in difficult situations. Laughter can be a powerful tool for coping, and it might help you to find some relief. Remember, it's okay to not be okay sometimes, and it's okay to ask for help when you need it.
+
+Take care of yourself, and please don't hesitate to reach out if you need someone to talk to.
+
+Best regards,
+[Your Name]","Dear Author,
+
+I appreciate your courage in reaching out and sharing your feelings with me. It's clear that you're going through a challenging time, and I want you to know that it's okay to feel the way you do. I understand your struggle with finding solace in reading books and the panicky feelings that ensue. It's important to remember that everyone's coping mechanisms are unique, and what works for one may not work for another.
+
+I'm glad to hear that you've tried other methods, such as consuming carbs and caffeine, even in movie theater settings. While it might not have been the solution you were seeking, it shows your determination to find ways to manage your feelings.
+
+You've mentioned feeling trapped and overly cautious. These feelings are common and can be overwhelming, but they are not permanent. I encourage you to take a step back and assess your situation from a different perspective. Sometimes, a change in perspective can help us see things more clearly.
+
+You've also emphasized the importance of finding humor as a coping mechanism. Laughter can indeed be a powerful tool in helping us navigate difficult times. Try to find something that makes you laugh, even if it's a small thing. It could be a funny video, a joke, or a humorous book.
+
+I understand your preference to keep your struggles private, but I want to remind you that it's okay to seek help when you need it. You don't have to face this alone. If you ever feel that you need someone to talk to, there are resources available. The Samaritans (116 123) and Text SHOUT (85258) are there for you 24/7.
+
+Remember, it's okay to ask for help. It's a sign of strength, not weakness. Take care of yourself, and remember to be kind to yourself during this time. You are important, and your feelings matter.
+
+Wishing you strength and resilience.
+
+Best regards,
+[Your Name]
+[Your Role]",71.55,7.4,74.79,6.2,0.8264271020889282,0.8240674734115601,0.8589338660240173,0.8727058172225952,0.6024791598320007,0.7161178588867188,0.9923499226570129,0.9923914074897766
+user-10,"The author indicates Low suicidal risk, with 33.33% of their sentences supporting other users. The author expresses empathy towards a user who may be contemplating suicide, sharing a personal story about their father who took his own life in his 70s. They emphasize that everyone has something valuable to offer and encourage the user to persevere, as they will eventually find their purpose. The author also shares the regret they feel for their father's decision, as they are still grieving for him many years later. They urge the user to consider the potential pain their loved ones may experience if they were to take their own life.","Dear Author,
+
+I appreciate your heartfelt message and the empathy you've shown towards someone who may be struggling. It's commendable that you're using your personal experience to reach out and offer support to others. Losing a loved one to suicide is a profoundly painful experience, and I can only imagine the regret you feel.
+
+Remember, your story is a testament to the power of empathy and the importance of reaching out to others. You've shown that even in the darkest of times, there's always a chance to make a difference. I encourage you to continue sharing your story, as it may help others who are going through similar struggles.
+
+If you ever need someone to talk to, please don't hesitate to reach out. In the UK, you can contact the Samaritans helpline at 116 123, or you can text SHOUT at 85258. If it's an emergency, don't hesitate to call 999. Remember, you're not alone, and there are people who care and want to help.
+
+Take care and stay strong.
+
+Best regards,
+
+[Your Name]
+[Your Role]","Dear Author,
+
+I want to commend you for your empathetic and compassionate approach towards the user who may be struggling. Your personal story about your father serves as a powerful reminder that everyone has a unique purpose and value in this world. I can sense the deep regret you feel for your father's decision, and I want you to know that it's okay to grieve and feel the pain of his loss.
+
+I understand that you are urging the user to consider the potential pain their loved ones may experience if they were to take their own life. This is a very important perspective to share, as it highlights the ripple effect of our actions on those around us. It's essential to remember that our lives touch many others, and our absence can leave a profound impact.
+
+In times of distress, it's common to feel overwhelmed and as if we've lost control. However, I want to remind you that you have the power to seek help and support when you need it. You've shown great strength in sharing your story and offering empathy to others. I encourage you to continue reaching out to others and sharing your experiences, as you never know who you might help along the way.
+
+If you ever feel that you need someone to talk to, please don't hesitate to reach out to the Samaritans at 116 123. They are available 24/7 to listen and offer support. If you're not comfortable calling, you can also text SHOUT at 85258.
+
+Take care of yourself, and remember that you are not alone in this journey. You have a purpose, and you have the strength to persevere.
+
+Warm regards,
+[Your Name]
+Mental Health Expert",73.47,6.7,70.33,7.9,0.8121678829193115,0.8284431099891663,0.8467813730239868,0.8871465921401978,0.7487042546272278,0.5310034155845642,0.9923297762870789,0.9926449060440063
+user-11,"The author indicates Very Low suicidal risk, with 93.33% of their sentences supporting other users. The author expresses empathy and support towards the recipient, acknowledging their struggle with cancer and commending their love and strength for their family. They encourage the recipient to focus on their education and personal growth, while also emphasizing the importance of surrounding themselves with positive influences and leaving behind those who bring them down. The author shares a personal coping mechanism of reorganizing their living space and playing music to lift their spirits, suggesting the recipient to do the same. They inquire about the recipient's interests, hobbies, and relationship with their girlfriend, and offer to privately message if preferred. The author concludes by expressing their love and suggesting ways to manage anxiety. The author is assessed as having a very low suicidal risk, with 93.33% of their sentences supporting the recipient.","Dear Author,
+
+I appreciate your heartfelt message and the empathy you've shown towards the recipient. It's truly inspiring to see your support for someone going through a challenging time like cancer. Your encouragement to focus on education, personal growth, and positive influences is commendable.
+
+I also agree with your suggestion to reorganize living spaces and play music to lift spirits. These simple acts can indeed make a significant difference in managing stress and anxiety.
+
+I'm glad to see you've taken the time to inquire about the recipient's interests, hobbies, and relationship with their girlfriend. This shows a genuine concern for their well-being. If the recipient prefers, they can privately message you for a more personal conversation.
+
+Remember, it's okay to seek help when needed. In the UK, there are helplines available for emotional support. The Samaritans can be reached at 116 123, and SHOUT offers text support at 85258. In case of an emergency, the Emergency Services can be reached at 999.
+
+Take care of yourself as well, Author. Your kindness and support are greatly appreciated.
+
+Best regards,
+
+AI Assistant","Dear Author,
+
+I am truly moved by your heartfelt message and the empathy you've shown towards the recipient. It's clear that you are a source of strength and support for them, and I commend you for that.
+
+I understand that dealing with someone's cancer journey can be challenging, but your encouragement to focus on education and personal growth is a testament to your resilience and wisdom. It's important to remember that even in difficult times, we can still strive to grow and learn.
+
+Your suggestion of reorganizing living spaces and playing music to lift spirits is a wonderful coping mechanism. I encourage you to continue finding ways to uplift yourself and the recipient, as these small acts can make a significant difference.
+
+I also appreciate your interest in the recipient's interests, hobbies, and relationship with their girlfriend. It's essential to have a support system in place during challenging times, and it's great that you're offering to privately message if preferred.
+
+Lastly, I want to address your concern about managing anxiety. Anxiety is a common feeling during difficult times, but there are ways to manage it. I encourage you to explore relaxation techniques such as deep breathing, meditation, or yoga. If you find that your anxiety persists, it may be helpful to seek professional help.
+
+Remember, it's okay to ask for help when you need it. You are not alone in this journey, and there are resources available to you. If you ever feel overwhelmed, please don't hesitate to reach out to the Samaritans at 116 123 or text SHOUT at 85258.
+
+Take care of yourself, and keep being the beacon of hope that you are.
+
+Warm regards,
+[Your Name]
+
+P.S. If you ever need someone to talk to, feel free to reach out to me. I'm here to support you.",59.3,8.0,63.9,8.3,0.8424302339553833,0.8318612575531006,0.8725453019142151,0.871929407119751,0.9148250222206116,0.845328688621521,0.9918558597564697,0.9922255277633667
+user-12,"The author indicates Medium suicidal risk, with 25.0% of their sentences supporting other users. The author expresses feelings of disappointment and despair, stating they have no interest in what becomes popular on social media platforms as they have experienced little success in their own life. They mention owning a .357 gun and having it in their lap, but do not indicate any immediate plans to harm themselves. The author also mentions having a daughter, who they have provided with an education and material possessions, but feels that she only loves them for their financial support.","Dear Author,
+
+I'm truly sorry to hear about the distress you're experiencing. It's important to remember that feelings of disappointment and despair are temporary and can be addressed. I'm here to help you explore some options.
+
+Firstly, I'd like to emphasize the importance of reaching out to someone who can provide immediate help. In the UK, you can contact the Emergency Services by dialing 999 if you feel you are in immediate danger. If you're feeling distressed but not in an emergency, you can reach out to the Samaritans on 116 123 or text SHOUT at 85258.
+
+Regarding your feelings about social media and your own success, it's essential to remember that everyone's journey is unique. Success is not defined solely by what is popular on social media platforms. There are many ways to measure success, and it's crucial to focus on the things that bring you personal satisfaction and happiness.
+
+I'm also concerned about your mention of a .357 gun. It's crucial not to use this as a coping mechanism. If you feel unsafe with this weapon, please consider removing it from your immediate surroundings or informing someone you trust about its presence.
+
+Lastly, it's understandable to feel unappreciated at times, especially when it comes to family relationships. However, it's important to remember that love is not always expressed in the way we expect. Your daughter may not express her love for you in the way you'd like, but that doesn't mean she doesn't care. If you're feeling disconnected from her, it might be helpful to have an open and honest conversation about your feelings.
+
+Please remember, it's okay to ask for help. You're not alone in this, and there are people who care about you and want to support you. Take care of yourself, and remember to reach out if you need someone to talk to.
+
+Best regards,
+[Your Name]
+[Your Role]","Dear Author,
+
+I'm truly sorry to hear about the difficult emotions you're experiencing right now. It's important to remember that feelings of disappointment and despair are temporary and can be addressed with the right support.
+
+I understand that you might feel disconnected from the successes others seem to have on social media platforms, but it's crucial to remember that everyone's journey is unique. Your life is not defined by what is popular or trending, but by the meaningful experiences and connections you've made.
+
+Regarding your mention of a .357 gun, I want to emphasize that it's never okay to harm oneself. I'm here to listen and help you find healthier ways to cope with your feelings. If you're feeling overwhelmed, it's important to reach out to someone who can provide immediate help.
+
+I'd like to offer you emotional support and advice. I also encourage you to consider seeking help from a professional, such as a counselor or therapist. They can provide you with strategies to manage your feelings and help you navigate through this difficult time.
+
+In the UK, you can contact the Samaritans at 116 123, or text SHOUT to 85258 if you'd prefer not to call. If you feel you're at immediate risk, please don't hesitate to contact the Emergency Services at 999.
+
+Remember, you're not alone in this. There are people who care about you and want to help. Your daughter, for instance, loves you for the things you've done for her, not just for your material possessions.
+
+Take care of yourself, and remember that it's okay to ask for help. I'm here for you, and there are many resources available to support you.
+
+Best regards,
+[Your Name]
+[Your Role]",64.0,8.2,64.81,7.9,0.8076376914978027,0.8118681907653809,0.851347804069519,0.8582452535629272,0.547376275062561,0.5484166145324707,0.9921663999557495,0.9922182559967041
+user-13,"The author indicates High suicidal risk, with 85.19% of their sentences supporting other users. The author expresses concern for a user who appears to be contemplating suicide, emphasizing that the user's interests and passions can be used to make a positive impact on the world. They encourage the user to embrace their freedom, pursue education, and follow their passions, suggesting that doing so can lead to financial success and personal fulfillment. The author also discusses their own struggles with suicidal thoughts and offers empathy and support to the user, encouraging them to seek help and not give up hope. They also emphasize the negative impact that suicide would have on the user's loved ones, particularly their daughter. The author concludes by offering to help the user in any way they can, emphasizing that they care about the user and believe in their potential.","Dear Author,
+
+I appreciate your heartfelt message and the concern you've shown for the user in question. It's commendable that you've recognized the potential in this individual and encouraged them to embrace their freedom, pursue education, and follow their passions. Your words about the positive impact they could have on the world are truly inspiring.
+
+I understand that you've also shared your own struggles with suicidal thoughts, and I want to express my empathy and support. It takes great courage to open up about such feelings, and I commend you for doing so.
+
+Please remember that it's crucial for the user to seek help. In the UK, there are resources available such as the Emergency Services (999), Samaritans helpline (116 123), and SHOUT texting helpline (85258). I encourage you to share these resources with the user, and to remind them that they are not alone in their struggles.
+
+I also want to emphasize the negative impact that suicide would have on the user's loved ones, particularly their daughter. It's important to consider the ripple effect of our actions and how they can affect those around us.
+
+Lastly, I want to assure you that you care about the user and believe in their potential. If there's anything you feel comfortable sharing or any way I can assist you in supporting the user, please don't hesitate to reach out. Together, we can make a difference.
+
+Take care and stay strong.
+
+Best regards,
+
+[Your Name]","Dear Author,
+
+I want to commend you for your compassionate and supportive message. It's clear that you've taken the time to understand the struggles of the user and offer them a beacon of hope. Your words are powerful and I believe they can make a significant difference.
+
+I want to emphasize the importance of your message, especially when it comes to the user's concerns about suicide. It's crucial to remember that every life is valuable and unique, and the world needs the positive impact that the user can make. I encourage the user to embrace their freedom, pursue education, and follow their passions as you've suggested. These steps can lead to financial success, personal fulfillment, and most importantly, a sense of purpose.
+
+I also want to acknowledge your personal struggle with suicidal thoughts. It takes great courage to share such feelings and offer empathy to others. Your experience can serve as a testament to the user that they are not alone in their struggle. I encourage you to continue seeking help for your own well-being as well.
+
+The user's concern for their daughter is a powerful motivator. I want to remind both of you that your actions today can have a lasting impact on the lives of those around you. I urge the user to seek help immediately if they are contemplating suicide. In the UK, the Samaritans (116 123) and Text SHOUT (85258) are available 24/7 to provide support. If the situation is urgent, please do not hesitate to contact the Emergency Services (999).
+
+I want to reiterate that you are not alone in this. I believe in the user's potential and I'm here to help in any way I can. Please remember that you have a support system, and together, we can help the user navigate through these difficult times.
+
+Take care and stay strong.
+
+Best regards,
+[Your Name]
+[Your Role]",63.59,8.4,64.81,7.9,0.8463432788848877,0.8400849103927612,0.8963096737861633,0.8927170038223267,0.6916540265083313,0.7484265565872192,0.9922953844070435,0.9920200705528259
+user-14,"The author indicates Very Low suicidal risk, with 93.18% of their sentences supporting other users. The author empathizes with the reader, acknowledging their struggle and expressing concern about suicidal thoughts. They emphasize the importance of life, especially at 24 years old, and assure the reader that their current situation is temporary. The author encourages the reader to trust in the promise of a brighter future, emphasizing the power to change one's way of thinking and the need to combat negative thoughts. They suggest daily affirmations, seeking help from a psychologist, and joining a support group as potential solutions. The author also shares personal experiences, such as the difficulty of asking for help, and offers to provide further support. They express a desire for the reader to escape the prison of their mind, emphasizing self-worth and the need to stand up against any negative treatment. The author concludes by offering a mental method for self-affirmation and expressing hope that their words have been helpful.","Dear Author,
+
+I want to commend you for your compassionate and insightful words. It's clear that you've been through challenging times yourself, and yet, you've chosen to reach out and offer support to someone else. That's truly commendable.
+
+I understand that you're going through a tough time, and it's important to acknowledge your feelings about suicidal thoughts. I want you to know that it's okay to feel this way, and it's okay to ask for help. Remember, you're not alone.
+
+In the UK, there are helplines available for you to talk to someone if you need to:
+
+- Emergency Services: 999
+- Samaritans helpline: 116 123
+- SHOUT texting helpline: 85258
+
+You've made some powerful points about the importance of life, especially at 24 years old, and the temporary nature of our current situations. I agree wholeheartedly. Life is a precious gift, and it's worth fighting for.
+
+Your suggestions for daily affirmations, seeking help from a psychologist, and joining a support group are excellent. I encourage you to consider these options, and remember, it's okay to ask for help.
+
+Your personal experiences, especially about the difficulty of asking for help, resonate with me. It's a common feeling, but it's important to remember that asking for help is a sign of strength, not weakness.
+
+I'm moved by your desire to help others escape the prison of their minds. It's a powerful metaphor, and I think it's a great reminder that we all have the power to change our thoughts and our lives.
+
+You've emphasized self-worth and the need to stand up against any negative treatment. I couldn't agree more. Remember, you are valuable, and you deserve to be treated with respect and kindness.
+
+I hope my words have been helpful to you, and I wish you all the best in your journey towards a brighter future. Remember, it's okay to ask for help, and there are people who care and want to help you.
+
+Take care,
+
+[Your Name]","Dear Author,
+
+I want to commend you for your compassionate and insightful words. It's clear that you've been through challenging times yourself, and you're using that experience to reach out and help others. Your empathy and understanding are truly inspiring.
+
+I can see that you're going through a tough time right now, but I want you to know that it's okay to feel this way. It's okay to struggle, and it's okay to seek help. You're not alone in this, and there are people who care about you and want to help.
+
+You've shared some powerful insights about the importance of life, especially at 24 years old. I wholeheartedly agree with you. Life is a precious gift, and it's filled with possibilities. I understand that it might feel like a prison right now, but I want you to remember that you have the power to change your thoughts, and in turn, change your reality.
+
+I appreciate your suggestions for daily affirmations, seeking help from a psychologist, and joining a support group. These are all excellent steps towards healing and growth. Remember, asking for help is a sign of strength, not weakness. It takes courage to reach out and seek support, and I'm proud of you for doing so.
+
+I also want to emphasize the importance of self-worth. You are valuable, and you deserve to be treated with respect and kindness. Don't let anyone, including yourself, diminish that worth. Stand up against any negative thoughts or treatment, and remember that you are stronger than you think.
+
+I'd like to offer you a mental method for self-affirmation. Whenever you're feeling overwhelmed, take a deep breath and repeat to yourself, ""I am strong. I am capable. I am worthy."" Repeat this mantra as many times as you need to, and let it remind you of your strength and worth.
+
+I hope my words have been helpful to you. Remember, you're not alone in this. There are people who care about you, and there are resources available to help you. If you ever feel like you need immediate help, don't hesitate to reach out to the Emergency Services (999). If you're not comfortable calling, you can text SHOUT at 8525",72.76,6.9,75.1,6.0,0.8348137140274048,0.8365046381950378,0.8828181028366089,0.8730789422988892,0.8738084435462952,0.8870862722396851,0.992201566696167,0.9923061728477478
+user-15,"The author indicates Medium suicidal risk, with 86.54% of their sentences supporting other users. The author on Reddit is offering support to someone who may be feeling suicidal and struggling with depression. They suggest talking about everything, sharing experiences, and seeking help from a community or trusted individuals. They also recommend the Butterfly Project, an online platform for sharing personal stories and experiences. The author acknowledges potential challenges in setting up such a platform, such as costs, privacy concerns, and the need for translation services. They propose an alternative idea of a country-based, Skype/Reddit/etc. address book to connect people locally. The author shares their own experience with self-harm and encourages seeking help and trying the Butterfly Project. They express concern for the well-being of the person they are addressing and urge them not to harm themselves, emphasizing the importance of loved ones and pets in one's life. They also provide a link to TalkLife, an online platform for suicide prevention and support.","Dear Author,
+
+I appreciate your compassionate and supportive approach towards someone struggling with suicidal thoughts and depression. Your suggestions for open communication, sharing experiences, and seeking help from a community or trusted individuals are commendable. I'm glad to see you're aware of the Butterfly Project, an online platform for sharing personal stories and experiences, although you acknowledge the potential challenges it may face.
+
+Your idea of a country-based Skype/Reddit/etc. address book to connect people locally is innovative and could potentially provide a more localized and immediate support system. I encourage you to explore this further, as it could make a significant difference in people's lives.
+
+I'm moved by your personal experience with self-harm and your encouragement for seeking help. It's crucial to remember that reaching out for help is a sign of strength, not weakness. I wholeheartedly support your recommendation of the Butterfly Project and TalkLife, both valuable resources for suicide prevention and support.
+
+In times of crisis, it's essential to prioritize your well-being. If you or the person you're addressing are in immediate danger, please contact the emergency services in the UK by dialing 999. For emotional support, you can reach out to the Samaritans helpline at 116 123 or text SHOUT at 85258. Remember, you're not alone, and there are people who care and want to help.
+
+Take care and stay strong.
+
+Best regards,
+[Your Name]
+[Your Position]","Dear Author,
+
+I want to commend you for your compassionate and supportive approach towards someone who may be struggling with suicidal thoughts and depression. Your willingness to share your own experiences and offer guidance is truly commendable.
+
+I understand that you've proposed the idea of a country-based Skype/Reddit/etc. address book to connect people locally, and I appreciate your innovative thinking. However, I'd like to suggest that you consider reaching out to organizations that are already established and equipped to provide the support you're aiming for.
+
+One such organization is the Butterfly Project, which you've mentioned, and I encourage you to continue sharing your personal stories and experiences there. Another platform is TalkLife, an online platform dedicated to suicide prevention and support. I've included the link below for your convenience.
+
+[TalkLife](https://www.talklife.org/)
+
+In addition, I'd like to remind you that it's crucial to prioritize your own well-being as well. Reaching out to others and offering support is a wonderful act, but it's equally important to seek help when you need it. If you ever find yourself feeling overwhelmed, please don't hesitate to reach out to the Samaritans, a helpline that's available 24/7.
+
+[Samaritans](https://www.samaritans.org/how-we-can-help-you/contact-us) - 116 123
+
+Remember, it's okay to ask for help. You're not alone in this, and there are people who care and want to support you. I'm here for you too, and I'm rooting for you.
+
+Take care,
+
+[Your Name]
+[Your Role]",47.49,10.4,55.74,9.3,0.8563127517700195,0.8288267850875854,0.8934619426727295,0.871902585029602,0.8099120855331421,0.8124188184738159,0.9922359585762024,0.9918690919876099
+user-16,"The author indicates Medium suicidal risk, with 66.67% of their sentences supporting other users. The author, who appears to be struggling with suicidal thoughts, shares their personal experiences and observations about suicide and the people who post on suicide-related forums. They mention a friend who promised help but acknowledged that things can get better, and they question the motives of people who remove anonymity on such forums. The author also discusses their newfound passion for photography as a reason to continue living, despite their discomfort with their own skin. They express frustration with insurance policies that offer payouts after a suicide, finding it ironic that one would pay the ultimate price for nothing. The author also reflects on the nature of communal grieving, suggesting that it often serves its own purpose rather than reflecting genuine concern for the deceased. They estimate the suicide rate in the US to be around 1% over a lifetime, finding it alarming and epidemic. The author shares their personal struggles with depression, including difficulty finding a romantic partner and feeling that people","Dear Author,
+
+I'm truly sorry to hear about the struggles you're going through. It's important to remember that you're not alone, and there are people who care about you. If you're feeling suicidal, please reach out to the emergency services immediately by calling 999. You can also contact the Samaritans on 116 123 or text SHOUT on 85258.
+
+I understand that you're dealing with complex emotions, and it's not easy to navigate through them. It's commendable that you've found a passion in photography, and I encourage you to continue exploring this as a way to express yourself and find solace.
+
+Your observations about suicide-related forums and the complexities of human interactions are insightful. It's crucial to remember that everyone's motivations and experiences are unique, and it's essential to approach such situations with empathy and understanding.
+
+I'm sorry to hear about your friend and the disappointment you've experienced. It's important to remember that promises can sometimes be difficult to keep, and it doesn't reflect on your worth or the value of your life.
+
+Your concerns about insurance policies and the suicide rate are valid. It's a complex issue that requires societal and systemic changes. In the meantime, let's focus on finding ways to support you and help you through this difficult time.
+
+Remember, it's okay to ask for help. You're not a burden, and there are people who genuinely care about you and want to see you thrive. Please reach out to the helplines mentioned above if you need someone to talk to.
+
+Take care and stay safe.
+
+Best regards,
+[Your Name]
+[Your Role]","Dear Author,
+
+I want to start by acknowledging the courage it takes to share your thoughts and feelings with me today. I can sense the depth of your pain and the complexity of your emotions. It's important to remember that you are not alone in this struggle, and there are people who care about you and want to help.
+
+Firstly, I want to address your concerns about the motives of people who remove anonymity on suicide-related forums. It's understandable to feel vulnerable and exposed in such a setting, but it's also important to remember that not everyone has malicious intentions. Some people may be sharing their own experiences in the hope of helping others, or they may be seeking help themselves.
+
+I also understand your frustration with insurance policies that offer payouts after a suicide. It's a difficult and complex issue, and it's understandable that it feels ironic and unfair. However, it's important to remember that these policies are in place to provide financial support to the loved ones left behind, and they are not a reflection of the value of a person's life.
+
+Your newfound passion for photography is a beautiful and powerful reason to continue living. I encourage you to explore this passion further, and to find ways to express yourself through your art. It can be a powerful outlet for your emotions and a source of comfort and solace.
+
+I also want to address your concerns about the suicide rate in the US. It's true that suicide is a significant public health issue, but it's important to remember that there are many resources available to help people who are struggling. If you are feeling suicidal, it's important to reach out for help as soon as possible.
+
+I want to offer you some emotional support and encouragement. I believe in your strength and resilience, and I know that you have the capacity to overcome this difficult time. It may not feel like it right now, but things can and will get better. I encourage you to seek out support from friends, family, or a mental health professional if you need it.
+
+If you are struggling to reach out, I want to remind you that there are helplines available in the UK that can provide support and resources. The Samaritans can be reached at 116 123, and they offer a confidential listening service for people",65.12,7.8,60.75,9.5,0.8195990920066833,0.828865110874176,0.8441454768180847,0.862074077129364,0.4722578823566437,0.5506210327148438,0.9923253059387207,0.9925931096076965
+user-17,"The author indicates Medium suicidal risk, with 25.0% of their sentences supporting other users. The author, a man, shares a sense of personal resonance with the text, as it appears to describe aspects of his own life, including a lack of male partners and feelings of emptiness and obligation in relationships. He expresses a desire to learn more about the author's story and mentions experiencing apathy. The author also reveals a suicidal thought, having considered suicide but was deterred by the possibility of being discovered.","Dear Author,
+
+I'm truly sorry to hear about the feelings of emptiness and apathy you've been experiencing. It's important to remember that you're not alone in this, and there are people who care and want to help. I'm here to listen and offer support.
+
+I'm concerned about the suicidal thought you've shared. If you're in the UK, please reach out to the emergency services immediately by calling 999 if you feel you're in immediate danger. If you're not in an emergency but still need someone to talk to, the Samaritans helpline (116 123) is available 24/7, or you can text SHOUT at 85258.
+
+I'd also like to encourage you to seek professional help. Talking things over with a mental health professional can provide you with the tools and strategies to cope with your feelings. If you're unsure where to start, I can help you find resources in your area.
+
+In the meantime, please try to stay safe and take care of yourself. Remember, it's okay to ask for help, and it's okay to not be okay. I'm here for you, and I believe in your strength to get through this.
+
+Best regards,
+[Your Name]","Dear Author,
+
+I'm truly sorry to hear about the heavy burden you're carrying. It's clear that you're going through a difficult time, and I want you to know that you're not alone. I can see that your story resonates with many of us, and it's important to remember that there are others who understand and empathize with your feelings.
+
+I want to assure you that it's okay to feel the way you do. It's okay to feel empty, to feel apathetic, and to struggle with relationships. These feelings are not a sign of weakness, but rather a call for understanding and support.
+
+I encourage you to seek help, and I'm here to guide you in that direction. There are resources available that can provide the support you need. For instance, the Samaritans (116 123) is a helpline that offers confidential emotional support, day or night. If you're not comfortable calling, you can also text SHOUT (85258) for 24/7 text-based support.
+
+Remember, it's important to take care of yourself. You have the power to change your thoughts and feelings, and I believe in your strength to do so. I urge you to reach out, to talk about your feelings, and to seek the help you deserve.
+
+Please remember, it's okay to ask for help. It's okay to feel the way you do. And it's okay to reach out. You matter, and your life is valuable.
+
+Take care, and I'm here for you.
+
+Best regards,
+[Your Name]
+[Your Role]",81.73,5.6,83.66,4.8,0.8015310168266296,0.7950470447540283,0.8440127372741699,0.8384529948234558,0.4654143750667572,0.6564764976501465,0.9920335412025452,0.9922951459884644
+user-18,"The author indicates Medium suicidal risk, with 41.18% of their sentences supporting other users. The author, a 23-year-old individual, shares their personal struggles, including being involved in a truck accident at a young age that left them with a body akin to an elderly person's, battling depression since, and losing their only understanding figure, their nana, at the age of 9. They were homeschooled and isolated, with no teachers or friends, and experienced physical and emotional abuse from their mother during their nana's illness. Their biological father was not present, and they have been ill since early childhood, which has worsened over time. They have faced rape and other traumatic experiences, preventing them from attending college. Despite their hardships, they empathize with the reader's pain, acknowledging that while everyone's struggles are unique, there is a common understanding. They express that life may seem hopeless and unchanging, but they assure the reader that they are not alone, heard, and understood","Dear Author,
+
+I'm truly sorry to hear about the challenges you've faced in your life. It's clear that you've been through some incredibly difficult experiences, and I want you to know that it's okay to feel overwhelmed. Your strength in sharing your story and empathizing with others is commendable.
+
+Remember, you are not alone in your struggles. There are people who care about you and want to help. In the UK, you can reach out to the Samaritans at any time on 116 123, or text SHOUT to 85258 if you prefer. If you're in immediate danger, please call 999 for emergency services.
+
+I understand that life may seem hopeless and unchanging right now, but it's important to remember that things can and do change. You've already shown resilience by surviving and continuing to empathize with others. Your life has value, and you deserve to live it in peace and happiness.
+
+Please take care of yourself, and remember that it's okay to ask for help when you need it. You are heard, you are understood, and you are not alone.
+
+Best regards,
+[Your Name]
+[Your Role]","Dear Author,
+
+I want to express my deepest empathy and understanding for the challenging journey you've been on. It's clear that you've faced an extraordinary amount of hardship, from the truck accident that left you with physical struggles, the loss of your beloved nana at a young age, and the isolation and abuse you experienced during your formative years.
+
+I want you to know that it's not uncommon to feel overwhelmed and hopeless when faced with such adversity. However, it's important to remember that you are not alone in your struggles. Despite the unique nature of each individual's pain, there is a common thread of resilience and strength that binds us all.
+
+I want to empower you to take control of your life, even if it feels like you've lost it. I believe in your ability to overcome the challenges you've faced and to find a path towards healing. I encourage you to seek support, whether it's from a trusted friend, family member, or professional.
+
+In the UK, there are resources available to help you. The Samaritans (116 123) is a helpline that offers emotional support 24/7. If you're not comfortable calling, you can text SHOUT (85258) instead. For urgent situations, please don't hesitate to contact the Emergency Services (999).
+
+Remember, it's okay to ask for help. You are heard, you are understood, and you are not alone. I believe in you, and I'm here for you. Take care.
+
+Warm regards,
+[Your Name]",82.34,5.3,72.97,6.9,0.827768862247467,0.8299860954284668,0.8340527415275574,0.8543952703475952,0.6718390583992004,0.6873131990432739,0.9924052357673645,0.9922624826431274
+user-19,"The author indicates Medium suicidal risk, with 42.67% of their sentences supporting other users. The author, who struggles with depression and alcoholism, shares their personal experiences of feeling trapped and isolated, often contemplating suicide due to their emotional state and cultural pressure to drink. They have tried medication, such as Lexapro, but found it challenging to manage the side effects. The author also discusses their struggles with relationships, particularly finding someone who accepts them for who they are, and the loss of close friends. They express frustration with their job and financial situation, and mention the passing of their mother due to motor neuron disease. Despite their struggles, the author emphasizes the importance of taking responsibility for one's life, seeking help when needed, and doing things daily that one doesn't want to do as a means of self-improvement. They also mention the support they received from friends after a suicide attempt by another friend, but lament the loss of contact with those friends over time. The author concludes by stating that they rarely have dark days now, but","Dear Author,
+
+I'm truly sorry to hear about the challenges you've been facing, and I appreciate your courage in sharing your experiences with me. It's clear that you've been dealing with a heavy burden, including depression, alcoholism, and feelings of isolation, exacerbated by cultural pressures and personal losses. I understand that managing medication side effects can be difficult, and it's commendable that you've sought help.
+
+Your resilience shines through in your determination to take responsibility for your life, seek help when needed, and work on self-improvement. I'm particularly moved by your efforts to do things daily that you don't want to do, as a means of overcoming obstacles.
+
+Remember, it's okay to ask for help, and there are resources available to you. In the UK, you can reach out to the Emergency Services at 999 if you feel immediately at risk, or the Samaritans helpline at 116 123 for emotional support. If you prefer texting, SHOUT is available at 85258.
+
+I'm also encouraged to hear that you've found support in friends after a difficult time, and I encourage you to reach out to them again. It's important to have people who understand and care for you.
+
+Please remember, it's okay to feel the way you do, and it's okay to ask for help. You're not alone in this journey, and there are people who care about you and want to help. Take care of yourself, and remember to reach out when you need to.
+
+Best regards,
+
+[Your Name]
+[Your Role]","Dear Author,
+
+I want to express my deepest empathy and understanding for the challenges you've been facing. It's clear that you've been through a lot, and I want you to know that it's okay to feel overwhelmed and lost at times. Your struggles with depression, alcoholism, and the loss of loved ones are heavy burdens, and it's understandable that you've felt trapped and isolated.
+
+I appreciate your resilience in seeking help, such as trying medication like Lexapro, and I want to commend you for your strength in taking responsibility for your life. It's important to remember that seeking help is a sign of courage, not weakness.
+
+I also want to acknowledge the cultural pressure you've mentioned regarding alcohol consumption. It's crucial to find a balance that works for you, and it's okay to seek support in finding that balance.
+
+Regarding your relationships, it can be challenging to find someone who truly accepts us for who we are. However, it's essential to remember that true friends are those who stick by us through our ups and downs, and it's worth the effort to find those people.
+
+Your job and financial situation can add to the stress you're feeling, but it's important to remember that these are temporary situations that can be improved with time and effort.
+
+I'm saddened to hear about the passing of your mother due to motor neuron disease. Losing a loved one can be a profoundly difficult experience, and it's okay to grieve and take time to heal.
+
+I want to offer you my emotional support during this difficult time. I understand that you've been through a lot, and it's okay to reach out for help when you need it. I encourage you to seek support from a mental health professional, such as a counselor or therapist, who can provide you with the tools and resources you need to cope with your feelings.
+
+In addition, I want to offer you the support of a group of people who understand what you're going through. The Samaritans is a helpline that provides emotional support to anyone in distress, and they can be reached at 116 123. If you're not comfortable calling, you can also text SHOUT at 85258",61.77,9.1,67.69,8.9,0.8377217054367065,0.8300575017929077,0.8603132367134094,0.8606720566749573,0.6963770389556885,0.4918290674686432,0.9920650124549866,0.992501974105835
