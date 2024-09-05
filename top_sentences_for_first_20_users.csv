@@ -1,0 +1,73 @@
+userid,sentence,label,predicted_supportiveness_label,rating,negative_score
+user-1,"['if i went up to a random person and told them to kill themselves, they would probably walk away from me.']",Ideation,0,3.0,
+user-1,"['almost ended up with my life completely ruined, i lived way too dangerously and almost lost my freedom, ex long term girlfriend and everything i loved.']",Ideation,0,3.0,
+user-1,"['i was like you once, i was miserable and broken.']",Ideation,0,2.0,0.9166757464408875
+user-1,['it always seems like it will never get better but thats not true.'],Ideation,0,2.0,0.904985249042511
+user-1,"['ive been cheated on in at least one or two long term relationships, sometimes i dont know if the girl was faithful in one of the relationships, i digress.']",Ideation,0,2.0,0.7523898482322693
+user-2,"['hi, so last night i was sitting on the ledge of my window contemplating whether or not i should jump.']",Behavior,0,4.0,
+user-2,"['my dad had just choked me and told me that i should get out of the house, and earlier he had called me a bum.']",Behavior,0,2.0,0.8976941704750061
+user-2,"['but one thing echoed in my mind, and that was something one of my best friends had told me:']",Behavior,0,2.0,0.0
+user-3,['furthermore i did attempt to kill myself like 4 years ago.'],Attempt,0,5.0,
+user-3,['ive also thought of commiting suicde frequently because my childhood wasnt that nice either.'],Attempt,0,3.0,
+user-3,['i had no friends and with 15 i tried to commit suicde.'],Attempt,0,5.0,
+user-3,['i still have suicidal thoughts and i often question myself why i even carry on!'],Attempt,0,2.0,0.925098180770874
+user-3,['in addition to that i felt so much hatred for the rest of the world because i felt it was so unguilty that i had to suffer such pain while other people whom were also my age  where at good health.'],Attempt,0,2.0,0.9177047610282898
+user-4,"['my little brother possibly killed himself and let me tell you, its been months and i havent gone a day without sobbing and considering suicide and feeling like my ribs were splitting apart.']",Ideation,0,5.0,
+user-4,['rarely is a day where i dont suffer from thoughts of self-harm.'],Ideation,0,2.0,0.0
+user-4,"['i feel the exact same as you, only i am a female.']",Ideation,0,2.0,0.0
+user-5,['thinking about suicide all the time does sound really exhausting.'],Supportive,0,3.0,
+user-5,['c i used to have a manager that did that to me and i felt very frustrated because i was doing the best that i could.'],Supportive,0,2.0,0.8976088762283325
+user-5,['im sorry its taken me so long to reply.'],Supportive,0,2.0,0.779003918170929
+user-5,['but im not sure if that would have anything to do with tomorrow.'],Supportive,0,2.0,0.0
+user-5,['the thing i love about animals so much is that they always seem to know when im sad and want to comfort me.'],Supportive,0,2.0,0.0
+user-6,['that mustve pain way too much.'],Supportive,0,2.0,0.856786847114563
+user-7,"['i would most likely pack up stuff one day, leave my house and dead beat job and just drive.']",Ideation,0,3.0,
+user-7,['maybe if i up and leave the place im in because every corner is just another memory of my mind and heart being broken.'],Ideation,0,3.0,
+user-7,"['i lost three months last year to drugs and cant remember what happened, my friends just said i made a lot of bad decisions and made a lot of people hate me.']",Ideation,0,2.0,0.9501368403434753
+user-7,"['when i was strung out on drugs, i was an embarrassment and i failed most of that year of school.']",Ideation,0,2.0,0.9386926293373108
+user-7,['it almost seems like life really isnt worth the living anymore.'],Ideation,0,2.0,0.9093899726867676
+user-8,['i should go back to it myself.'],Supportive,0,3.0,
+user-8,"['i consider theres a chance that our species will ultimately be wiped out, just as i consider theres a chance that when i compete i will be destroyed by those better than me, that when i leave my house i will get mowed down by a careless vehicle etc.']",Supportive,0,2.0,0.9023998379707336
+user-8,"['i find myself perplexed with my ideas surrounding life, for if it is designed  to survive cataclysms and disasters and black holes and the impact of other celestial bodies and continue to multiply and diversify and survive, i wonder at its purpose.']",Supportive,0,2.0,0.6025915741920471
+user-8,"['we may not matter to the universe, but as far as i can tell nothing does, the only being that cares about my existence is other humans around me.']",Supportive,0,2.0,0.0
+user-8,"['i wont exist in 100 years ill bet, but that doesnt mean that there is no meaning to the lifetime i find myself occupying now.']",Supportive,0,2.0,0.0
+user-9,['i feel backed into a corner mostly.'],Ideation,0,2.0,0.8147169351577759
+user-9,['id rather not let anyone know im having these kind of issues.'],Ideation,0,2.0,0.7978454232215881
+user-9,"['a book is usually what i do when im getting down, but it doesnt work when i start getting panicky.']",Ideation,0,2.0,0.7294924259185791
+user-10,['he didnt think anyone wanted/needed him anymore and his body was failing.'],Indicator,0,2.0,0.8662246465682983
+user-10,['my dad killed himself in his 70s.'],Indicator,0,2.0,0.8516997694969177
+user-10,['if he only knew how much we pain now many years after.'],Indicator,0,2.0,0.6081599593162537
+user-11,"['when i feel blue, i re-arrange my belongings.']",Supportive,0,2.0,0.0
+user-12,['i wish i could give a shit about what would make it to the front page.'],Behavior,0,5.0,
+user-12,"['i am not on a ledge or something, but i do have my .']",Behavior,0,2.0,0.0
+user-13,"['i imagine after my heart stops and brain ceases to function, being able to see my dead body.']",Ideation,0,5.0,
+user-13,['i think about blowing my brains out frequently.'],Ideation,0,4.0,
+user-13,['that would make me want to kill myself.'],Ideation,0,3.0,0.9227139949798584
+user-13,"['if i am in a certain position in life that is horrific, then why should i continue?']",Ideation,0,3.0,0.8867841362953186
+user-13,['reactionary suicide and clinical suicide.'],Ideation,0,3.0,0.7946898937225342
+user-14,"['i just know that, for me, asking for help was the hardest part.']",Ideation,0,2.0,0.5932081341743469
+user-14,"['once i did, i found that so many people wanted to help me.']",Ideation,0,2.0,0.0
+user-14,['i like to listen to  from la cage aux follies when im feeling bad about myself.'],Ideation,0,2.0,0.0
+user-15,['im trying to start now but i cant promise anyhting.'],Behavior,0,3.0,
+user-15,['i too have been self harming for months.'],Behavior,0,4.0,
+user-15,"['my problem is not that people on social media are cunts, they are much more successful than me and that makes me feel bad']",Behavior,0,2.0,0.8210858702659607
+user-15,"['but even when everybody only brags about the good moments in their lifes, i realize that i havent got any of this good moments']",Behavior,0,2.0,0.7257457375526428
+user-15,['yeah but i see them in their successful moments and realize i havent got any successful moments'],Behavior,0,2.0,0.0
+user-16,['i want to escape from my life.'],Ideation,0,3.0,
+user-16,['i was looking into canceling a preorder i have pending for a camera and buying a tank of excessive upper gastrointestinal gas to do myself in with not a minute ago.'],Ideation,0,5.0,
+user-16,['the suicide rate now is about 35k a year.'],Ideation,0,5.0,
+user-16,"['i get the sense that people generally only want to see me happy or dead, and that im insufferable otherwise.']",Ideation,0,2.0,0.8174869418144226
+user-16,"['i havent made any money off it yet, but it is the one thing that gives me a reason to carry on.']",Ideation,0,2.0,0.0
+user-17,['only reason i didnt kill myself tonight is because i procrastinated until i thought i might be discovered.'],Behavior,0,3.0,
+user-17,"['im a guy, so not so many men willing to have sex with me, but the emptiness/friends of obligation is very familiar.']",Behavior,0,2.0,0.5379133224487305
+user-17,"['im interested, since youve pretty much described my life.']",Behavior,0,2.0,0.0
+user-18,"['ive downed a bottle of pills before, i used to cut, used to choke myself but never could finish it no matter how bad i wanted to no matter how badly i needed to because at the end right before blanking out my brain would scream stop.']",Attempt,0,4.0,
+user-18,['it sucked massively and since that age i was homeschooled but i had to teach myself.'],Attempt,0,2.0,0.9451876878738403
+user-18,['ive been raped and many other things i cant go to college due to seizures and i cant do what my heart desires.'],Attempt,0,2.0,0.9348846673965454
+user-18,['my dad didnt want me cause i was a illness kid and have done nothing but get worse.'],Attempt,0,2.0,0.9309942126274109
+user-18,['i was hit by a truck when i was eleven and ive been battling depression since.'],Attempt,0,2.0,0.8950642943382263
+user-19,"['i know it, but then, i have so much fun then i want to drown.']",Ideation,0,3.0,
+user-19,"['then got a second, which lasted maybe the same.']",Ideation,0,3.0,
+user-19,"['i dont know how it relates, but it fucking sucks, whole family was fucked up for a serious amount of time, watching your mum die over a couple of years gave me serious mares.']",Ideation,0,2.0,0.9536399245262146
+user-19,"['worst shit ever, felt like a drug addict coming off, guess i was.']",Ideation,0,2.0,0.9517626166343689
+user-19,"['my mother died from motor neuron disease, shit was real.']",Ideation,0,2.0,0.931259036064148
